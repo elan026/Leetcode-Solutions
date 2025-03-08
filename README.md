@@ -6,10 +6,11 @@
 
 ---
 
-## 🏆 LeetCode Stats  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/elan026?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats">
-</p>
+## 📊 Profile Overview  
+
+| 🔥 **LeetCode Stats** | 📌 **Profile Details** |
+|----------------------|---------------------|
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/elan026?theme=dark&font=Baloo&ext=heatmap) | 👤 **Name:** Elango Kandhasamy  <br> 🌍 **Location:** India  <br> 🏆 **Rank:** `#1,653,312`  <br> 🎯 **Goal:** Master DSA & Problem Solving  <br> 🚀 **Interests:** AI & Competitive Coding |
 
 ---
 
@@ -17,13 +18,12 @@
 
 | Difficulty | Solved | Total | Progress |
 |------------|--------|-------|------------|
-| 🟢 **Easy** | 10 | 700+ | ![10%](https://progress-bar.dev/10/?title=progress) |
-| 🟡 **Medium** | 5 | 1500+ | ![5%](https://progress-bar.dev/5/?title=progress) |
-| 🔴 **Hard** | 2 | 600+ | ![2%](https://progress-bar.dev/2/?title=progress) |
+| 🟢 **Easy** | 50 | 700+ | ![10%](https://progress-bar.dev/10/?title=progress) |
+| 🟡 **Medium** | 10 | 1500+ | ![5%](https://progress-bar.dev/5/?title=progress) |
+| 🔴 **Hard** | 1 | 600+ | ![2%](https://progress-bar.dev/2/?title=progress) |
 
-📌 **Total Problems Solved:** `17+`  
+📌 **Total Problems Solved:** `50+`  
 📌 **Current Rank:** `#1,653,312`  
 
 ---
-
 
