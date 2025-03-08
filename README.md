@@ -7,25 +7,23 @@
 ---
 
 ## 🏆 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/elan026?theme=light&font=Baloo)  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/elan026?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats">
+</p>
 
 ---
 
-## 📂 Problem Solutions  
+## 📊 Progress Overview  
 
-### 🟢 Easy  
-- [Two Sum](./Easy/two_sum.py)  
-- [Palindrome Number](./Easy/palindrome_number.cpp)  
+| Difficulty | Solved | Total | Progress |
+|------------|--------|-------|------------|
+| 🟢 **Easy** | 10 | 700+ | ![10%](https://progress-bar.dev/10/?title=progress) |
+| 🟡 **Medium** | 5 | 1500+ | ![5%](https://progress-bar.dev/5/?title=progress) |
+| 🔴 **Hard** | 2 | 600+ | ![2%](https://progress-bar.dev/2/?title=progress) |
 
-### 🟡 Medium  
-- [Add Two Numbers](./Medium/add_two_numbers.py)  
-
-### 🔴 Hard  
-- [Merge K Sorted Lists](./Hard/merge_k_sorted_lists.java)  
+📌 **Total Problems Solved:** `17+`  
+📌 **Current Rank:** `#1,653,312`  
 
 ---
 
-## 📌 How to Use  
-```bash
-git clone https://github.com/elan026/LeetCode-Solutions.git
-cd LeetCode-Solutions
+
