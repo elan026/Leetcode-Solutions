@@ -26,17 +26,3 @@
 📌 **Current Rank:** `#1,653,312`  
 
 ---
-
-## 📂 **Problem Solutions**
-📝 **Click on the problem name to see the solution!**
-
-### **🟩 Easy**
-- [Two Sum](./Easy/two_sum.py)
-- [Palindrome Number](./Easy/palindrome_number.cpp)
-
-### **🟨 Medium**
-- [Add Two Numbers](./Medium/add_two_numbers.py)
-
-### **🟥 Hard**
-- [Merge K Sorted Lists](./Hard/merge_k_sorted_lists.java)
-
