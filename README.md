@@ -6,10 +6,13 @@
 
 ---
 
-## 🏆 LeetCode Stats  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/elan026?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats">
-</p>
+## 📊 Profile Overview  
+
+| 🔥 **LeetCode Stats** | 📌 **Profile Details** |
+|----------------------|---------------------|
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/elan026?theme=dark&font=Baloo&ext=heatmap) | 👤 **Name:** Elango Kandhasamy  <br> 🌍 **Location:** India  <br> 🏆 **Rank:** `#1,653,312`  <br> 🎯 **Goal:** Master DSA & Problem Solving  <br> 🚀 **Interests:** AI & Competitive Coding |
+
+---
 
 ---
 
