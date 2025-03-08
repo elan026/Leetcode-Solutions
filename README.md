@@ -39,10 +39,3 @@
 
 ### **🟥 Hard**
 - [Merge K Sorted Lists](./Hard/merge_k_sorted_lists.java)
-
----
-
-## 💡 **How to Use This Repo?**
-```bash
-git clone https://github.com/elan026/LeetCode-Solutions.git
-cd LeetCode-Solutions
