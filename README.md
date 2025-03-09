@@ -14,16 +14,9 @@
 
 ---
 
-## 📊 Progress Overview  
-
-| Difficulty | Solved | Total | Progress |
-|------------|--------|-------|------------|
-| 🟢 **Easy** | 50 | 700+ | ![10%](https://progress-bar.dev/10/?title=progress) |
-| 🟡 **Medium** | 10 | 1500+ | ![5%](https://progress-bar.dev/5/?title=progress) |
-| 🔴 **Hard** | 1 | 600+ | ![2%](https://progress-bar.dev/2/?title=progress) |
+---
 
 📌 **Total Problems Solved:** `50+`  
 📌 **Current Rank:** `#1,653,312`  
 
 ---
-
